@@ -1,3 +1,5 @@
+[![YouTube Playlist](https://img.shields.io/badge/Youtube-Playlist-red)](https://www.youtube.com/playlist?list=PLAIvok8LGm7fkK3J6bWderrS7dxUsYbKw)
+
 # Information
 
 This project was created for CS498 as a final project.
